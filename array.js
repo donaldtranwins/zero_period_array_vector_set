@@ -18,6 +18,17 @@ function ArrayConstructor(){
 		this.data = newArray;
 		return outboundData;
 	}
+	this.shift = function(){
+		/*add the shift method*/	
+	}
+	this.unshift = function(){
+		/*add the unshift method*/
+	}
+	/*optional*/
+	this.splice = function(){
+		/*add the splice method*/
+	}
+
 }
 
 
